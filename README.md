@@ -1,5 +1,3 @@
----
-
 # 🌟 Sharjeel Ahmad - Data Analyst Portfolio 🌟
 
 ## Welcome! 👋
@@ -45,7 +43,3 @@ I specialize in:
 - 🔗 LinkedIn: [sharjeelahmad](https://www.linkedin.com/in/sharjeelahmad)
 
 Feel free to browse through my projects and reach out if you have any questions or collaborative ideas!
-
----
-
-This version adds a bit more personality and visual appeal to your README, making it more engaging for visitors to your GitHub portfolio.
