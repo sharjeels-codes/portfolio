@@ -1,4 +1,4 @@
-# 🌟 Sharjeel Ahmad - Data Analyst Portfolio 🌟
+# 🌟 Sharjeel Ahmad - Portfolio 🌟
 
 ## Welcome! 👋
 
