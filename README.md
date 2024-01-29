@@ -1,5 +1,3 @@
-Sure, I'll add some emojis to make your GitHub portfolio README more engaging and visually appealing:
-
 ---
 
 # 🌟 Sharjeel Ahmad - Data Analyst Portfolio 🌟
@@ -43,7 +41,7 @@ I specialize in:
 
 ## Contact Me 📬
 
-- 📧 E-mail: [sharjeel-ahmad@outlook.com](mailto:sharjeel-ahmad@outlook.com)
+- 📧 E-mail: [sharjeel@confidential.codes](mailto:sharjeel@confidential.codes)
 - 🔗 LinkedIn: [sharjeelahmad](https://www.linkedin.com/in/sharjeelahmad)
 
 Feel free to browse through my projects and reach out if you have any questions or collaborative ideas!
